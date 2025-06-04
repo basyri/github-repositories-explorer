@@ -11,7 +11,7 @@ A simple React + TypeScript + Vite app to search GitHub users and view their rep
 
 ## Demo
 
-Live demo: [https://github-repositories-explorer.vercel.app](https://github-repositories-explorer.vercel.app)
+Live demo: [https://github-repositories-explorer-basyri.vercel.app](https://github-repositories-explorer-basyri.vercel.app)
 
 ## Technologies Used
 
