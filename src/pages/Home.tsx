@@ -5,7 +5,7 @@ import UserList from "../components/UserList/UserList";
 export default function Home() {
   return (
     <Container maxW="xl" py={8}>
-      <Heading mb={6}>GitHub Repositories Explorer</Heading>
+      <Heading textAlign={"center"} mb={6}>GitHub Repositories Explorer</Heading>
       <SearchBar />
       <UserList />
     </Container>
